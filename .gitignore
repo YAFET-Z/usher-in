@@ -1,0 +1,5 @@
+.env
+vertex-ai-hackathon-key.json
+__pycache__/
+venv/
+.DS_Store
