@@ -2,11 +2,14 @@
 
 **Full-stack observability for Gemini 2.5 Pro.** Turn the AI "black box" into actionable data.
 
+##LIVE DEMO 
+https://youtu.be/V7UjlaSlsww
+
 ## 🚀 Overview
 Usher-In is a high-performance API gateway that provides a real-time "War Room" for LLM operations. Built with **FastAPI** and **Google Vertex AI**, it uses **Datadog** to track cost, latency, and reliability in a single pane of glass.
 
 ## 📊 The Command Center
-![Usher-In Dashboard]
+
 
 ### Key Metrics Tracked:
 * **API Success Rate:** 100% reliability monitoring.
